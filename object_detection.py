@@ -119,10 +119,10 @@ def get_haptic_pattern_intensity(assessment, distance):
     base_intensity = (assessment - 70) * (100/30)  # Scale from 70-100 to 0-100
     
     # Distance factor - stronger vibration for closer objects
-    # Increase intensity for very close objects (under 30cm)
+    # Increase intensity for very close objects (under 30cm originally, now using 40cm for double sensitivity)
     distance_factor = 1.0
-    if distance < 30:
-        distance_factor = 1 + ((30 - distance) / 30)  # 1.0-2.0 factor
+    if distance < 40:
+        distance_factor = 1 + ((40 - distance) / 40)  # 1.0-2.0 factor
     
     # Calculate final intensity with distance consideration
     intensity = min(100, base_intensity * distance_factor)
@@ -213,7 +213,8 @@ def ultrasonic_thread_function(trigger_pin, echo_pin, motor_pin):
 def calculate_obstruction_score():
     """
     Calculate a fused obstruction score (0-100%).
-    Updated to heavily favor the ultrasonic sensor readings.
+    Updated to heavily favor the ultrasonic sensor readings,
+    and now with double sensitivity: mapping distance so that obstacles at roughly double the previous range produce similar scores.
     """
     global distance_cm, is_visual_obstructed, obstruction_percent
     global camera_weight, ultrasonic_weight, scene_complexity
@@ -232,14 +233,13 @@ def calculate_obstruction_score():
     # Only calculate distance score if ultrasonic has weight
     distance_score = 0
     if actual_ultrasonic_weight > 0:
-        # Distance-based score: lower distance yields higher score.
-        # More aggressive curve: 0cm -> 100%, 40cm -> 0% (changed from 50cm)
-        distance_score = max(0, min(100, 100 - (distance_cm * 2.5)))
+        # New distance-based score: lower distance yields higher score.
+        # Adjusted for double sensitivity: 0cm -> 100%, 80cm -> 0%
+        distance_score = max(0, min(100, 100 - (distance_cm * 1.25)))
         
-        # Apply additional emphasis to close distances
-        if distance_cm < 20:
-            # Further boost score for very close objects
-            distance_boost = max(0, 20 - distance_cm) * 1.5
+        # Apply additional emphasis to close distances using a doubled threshold (40cm instead of 20cm)
+        if distance_cm < 40:
+            distance_boost = max(0, 40 - distance_cm) * 1.5
             distance_score = min(100, distance_score + distance_boost)
     
     # Only calculate visual score if camera has weight
