@@ -1,0 +1,920 @@
+
+--- New session started at 2025-02-26 14:32:18 by SkywardSyntax ---
+Sensor weights: Camera 0.60, Ultrasonic 0.40
+2025-02-26 14:32:19 - Obstacle detected: Visual 99.2%, Distance 18.6cm, Fused score: 84.6%
+2025-02-26 14:32:22 - Obstacle detected: Visual 99.2%, Distance 17.3cm, Fused score: 85.7%
+2025-02-26 14:32:25 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 86.7%
+2025-02-26 14:32:32 - Obstacle detected: Visual 86.9%, Distance 2.1cm, Fused score: 90.4%
+2025-02-26 14:32:36 - Obstacle detected: Visual 96.7%, Distance 16.0cm, Fused score: 85.2%
+2025-02-26 14:32:43 - Obstacle detected: Visual 97.1%, Distance 35.1cm, Fused score: 70.2%
+2025-02-26 14:32:54 - Obstacle detected: Visual 99.2%, Distance 30.3cm, Fused score: 75.2%
+2025-02-26 14:32:57 - Obstacle detected: Visual 99.2%, Distance 5.0cm, Fused score: 95.5%
+2025-02-26 14:33:00 - Obstacle detected: Visual 99.2%, Distance 34.0cm, Fused score: 72.3%
+2025-02-26 14:33:03 - Obstacle detected: Visual 99.2%, Distance 4.0cm, Fused score: 96.3%
+2025-02-26 14:33:07 - Obstacle detected: Visual 99.2%, Distance 36.1cm, Fused score: 70.6%
+2025-02-26 14:33:10 - Obstacle detected: Visual 99.2%, Distance 35.9cm, Fused score: 70.8%
+2025-02-26 14:33:13 - Obstacle detected: Visual 99.2%, Distance 36.6cm, Fused score: 70.2%
+2025-02-26 14:33:16 - Obstacle detected: Visual 99.2%, Distance 3.0cm, Fused score: 97.1%
+2025-02-26 14:33:19 - Obstacle detected: Visual 99.2%, Distance 2.7cm, Fused score: 97.4%
+2025-02-26 14:33:26 - Obstacle detected: Visual 87.0%, Distance 5.9cm, Fused score: 87.5%
+2025-02-26 14:33:33 - Obstacle detected: Visual 94.9%, Distance 22.4cm, Fused score: 79.0%
+2025-02-26 14:33:36 - Obstacle detected: Visual 98.6%, Distance 16.0cm, Fused score: 86.3%
+2025-02-26 14:33:39 - Obstacle detected: Visual 96.0%, Distance 20.5cm, Fused score: 81.2%
+2025-02-26 14:33:42 - Obstacle detected: Visual 99.2%, Distance 16.3cm, Fused score: 86.4%
+2025-02-26 14:33:45 - Obstacle detected: Visual 99.2%, Distance 10.9cm, Fused score: 90.8%
+2025-02-26 14:33:48 - Obstacle detected: Visual 98.9%, Distance 19.5cm, Fused score: 83.7%
+2025-02-26 14:33:54 - Obstacle detected: Visual 92.5%, Distance 31.7cm, Fused score: 70.1%
+2025-02-26 14:33:57 - Obstacle detected: Visual 93.4%, Distance 25.0cm, Fused score: 76.0%
+2025-02-26 14:34:00 - Obstacle detected: Visual 96.4%, Distance 17.9cm, Fused score: 83.5%
+2025-02-26 14:34:03 - Obstacle detected: Visual 91.6%, Distance 20.5cm, Fused score: 78.6%
+2025-02-26 14:34:06 - Obstacle detected: Visual 90.6%, Distance 30.4cm, Fused score: 70.0%
+2025-02-26 14:34:09 - Obstacle detected: Visual 92.5%, Distance 31.7cm, Fused score: 70.2%
+2025-02-26 14:34:20 - Obstacle detected: Visual 97.9%, Distance 32.7cm, Fused score: 72.6%
+2025-02-26 14:34:33 - Obstacle detected: Visual 92.0%, Distance 2.3cm, Fused score: 93.4%
+2025-02-26 14:34:36 - Obstacle detected: Visual 96.1%, Distance 2.0cm, Fused score: 96.0%
+2025-02-26 14:34:39 - Obstacle detected: Visual 69.8%, Distance 4.3cm, Fused score: 78.5%
+2025-02-26 14:34:42 - Obstacle detected: Visual 95.9%, Distance 29.6cm, Fused score: 73.9%
+2025-02-26 14:34:45 - Obstacle detected: Visual 96.1%, Distance 4.6cm, Fused score: 94.0%
+2025-02-26 14:34:50 - Obstacle detected: Visual 85.8%, Distance 12.6cm, Fused score: 81.4%
+2025-02-26 14:34:53 - Obstacle detected: Visual 98.8%, Distance 3.3cm, Fused score: 96.7%
+2025-02-26 14:34:57 - Obstacle detected: Visual 89.7%, Distance 4.3cm, Fused score: 90.4%
+2025-02-26 14:35:04 - Obstacle detected: Visual 99.1%, Distance 36.5cm, Fused score: 70.3%
+2025-02-26 14:35:07 - Obstacle detected: Visual 98.2%, Distance 10.6cm, Fused score: 90.5%
+2025-02-26 14:35:11 - Obstacle detected: Visual 85.5%, Distance 21.8cm, Fused score: 73.9%
+2025-02-26 14:35:14 - Obstacle detected: Visual 99.2%, Distance 36.3cm, Fused score: 70.5%
+2025-02-26 14:35:33 - Obstacle detected: Visual 88.5%, Distance 17.8cm, Fused score: 78.8%
+2025-02-26 14:35:37 - Obstacle detected: Visual 99.1%, Distance 36.1cm, Fused score: 70.6%
+2025-02-26 14:36:07 - Obstacle detected: Visual 97.5%, Distance 33.6cm, Fused score: 71.6%
+2025-02-26 14:36:15 - Obstacle detected: Visual 99.1%, Distance 35.9cm, Fused score: 70.8%
+2025-02-26 14:36:20 - Obstacle detected: Visual 99.2%, Distance 36.4cm, Fused score: 70.4%
+2025-02-26 14:36:29 - Obstacle detected: Visual 99.2%, Distance 6.5cm, Fused score: 94.3%
+2025-02-26 14:36:36 - Obstacle detected: Visual 98.2%, Distance 3.3cm, Fused score: 96.3%
+2025-02-26 14:36:39 - Obstacle detected: Visual 98.6%, Distance 16.0cm, Fused score: 86.4%
+2025-02-26 14:36:43 - Obstacle detected: Visual 92.9%, Distance 15.3cm, Fused score: 83.5%
+2025-02-26 14:36:46 - Obstacle detected: Visual 98.7%, Distance 12.3cm, Fused score: 89.4%
+2025-02-26 14:36:49 - Obstacle detected: Visual 74.5%, Distance 16.0cm, Fused score: 71.9%
+2025-02-26 14:36:52 - Obstacle detected: Visual 80.0%, Distance 19.5cm, Fused score: 72.4%
+2025-02-26 14:36:56 - Obstacle detected: Visual 98.3%, Distance 17.0cm, Fused score: 85.4%
+2025-02-26 14:36:59 - Obstacle detected: Visual 99.0%, Distance 10.9cm, Fused score: 90.7%
+2025-02-26 14:37:06 - Obstacle detected: Visual 98.1%, Distance 29.4cm, Fused score: 75.4%
+2025-02-26 14:37:09 - Obstacle detected: Visual 98.4%, Distance 34.9cm, Fused score: 71.1%
+2025-02-26 14:37:12 - Obstacle detected: Visual 99.1%, Distance 6.2cm, Fused score: 94.5%
+2025-02-26 14:37:15 - Obstacle detected: Visual 99.2%, Distance 17.0cm, Fused score: 85.9%
+2025-02-26 14:37:19 - Obstacle detected: Visual 99.2%, Distance 24.4cm, Fused score: 79.9%
+2025-02-26 14:37:22 - Obstacle detected: Visual 99.2%, Distance 7.5cm, Fused score: 93.5%
+2025-02-26 14:37:36 - Obstacle detected: Visual 95.5%, Distance 27.1cm, Fused score: 75.6%
+2025-02-26 14:37:56 - Obstacle detected: Visual 98.1%, Distance 34.0cm, Fused score: 71.6%
+2025-02-26 14:37:59 - Obstacle detected: Visual 88.7%, Distance 21.1cm, Fused score: 76.3%
+2025-02-26 14:38:05 - Obstacle detected: Visual 95.7%, Distance 3.3cm, Fused score: 94.8%
+2025-02-26 14:38:08 - Obstacle detected: Visual 61.1%, Distance 2.3cm, Fused score: 74.8%
+2025-02-26 14:38:15 - Obstacle detected: Visual 97.1%, Distance 9.7cm, Fused score: 90.5%
+2025-02-26 14:38:19 - Obstacle detected: Visual 71.0%, Distance 9.9cm, Fused score: 74.7%
+2025-02-26 14:38:25 - Obstacle detected: Visual 92.7%, Distance 9.9cm, Fused score: 87.7%
+2025-02-26 14:38:30 - Obstacle detected: Visual 80.0%, Distance 8.5cm, Fused score: 81.2%
+2025-02-26 14:38:58 - Obstacle detected: Visual 96.6%, Distance 8.5cm, Fused score: 91.2%
+2025-02-26 14:39:05 - Obstacle detected: Visual 79.3%, Distance 8.5cm, Fused score: 80.8%
+2025-02-26 14:39:09 - Obstacle detected: Visual 92.7%, Distance 9.9cm, Fused score: 87.7%
+2025-02-26 14:39:14 - Obstacle detected: Visual 93.8%, Distance 9.9cm, Fused score: 88.4%
+2025-02-26 14:39:17 - Obstacle detected: Visual 68.1%, Distance 9.9cm, Fused score: 73.0%
+2025-02-26 14:39:20 - Obstacle detected: Visual 94.3%, Distance 9.6cm, Fused score: 88.9%
+2025-02-26 14:39:23 - Obstacle detected: Visual 94.4%, Distance 9.5cm, Fused score: 89.0%
+2025-02-26 14:39:26 - Obstacle detected: Visual 81.8%, Distance 9.5cm, Fused score: 81.4%
+2025-02-26 14:39:31 - Obstacle detected: Visual 98.6%, Distance 36.1cm, Fused score: 70.3%
+2025-02-26 14:39:42 - Obstacle detected: Visual 64.3%, Distance 5.2cm, Fused score: 74.4%
+2025-02-26 14:39:45 - Obstacle detected: Visual 99.2%, Distance 36.1cm, Fused score: 70.6%
+2025-02-26 14:39:48 - Obstacle detected: Visual 94.3%, Distance 31.9cm, Fused score: 71.0%
+2025-02-26 14:39:52 - Obstacle detected: Visual 97.2%, Distance 16.0cm, Fused score: 85.5%
+2025-02-26 14:39:56 - Obstacle detected: Visual 99.2%, Distance 35.9cm, Fused score: 70.8%
+2025-02-26 14:39:59 - Obstacle detected: Visual 97.8%, Distance 20.6cm, Fused score: 82.1%
+2025-02-26 14:40:06 - Obstacle detected: Visual 94.3%, Distance 27.9cm, Fused score: 74.2%
+2025-02-26 14:40:09 - Obstacle detected: Visual 96.8%, Distance 30.1cm, Fused score: 74.0%
+2025-02-26 14:40:12 - Obstacle detected: Visual 98.6%, Distance 33.9cm, Fused score: 72.1%
+
+--- New session started at 2025-02-26 15:05:12 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-26 15:05:13 - Obstacle detected: Visual 99.2%, Distance 5.3cm, Fused score: 92.4%
+2025-02-26 15:05:21 - Obstacle detected: Visual 93.4%, Distance 3.9cm, Fused score: 92.5%
+2025-02-26 15:05:24 - Obstacle detected: Visual 98.4%, Distance 5.2cm, Fused score: 92.2%
+2025-02-26 15:05:46 - Obstacle detected: Visual 99.2%, Distance 3.6cm, Fused score: 94.7%
+2025-02-26 15:05:49 - Obstacle detected: Visual 98.4%, Distance 5.6cm, Fused score: 91.7%
+2025-02-26 15:05:53 - Obstacle detected: Visual 95.2%, Distance 3.6cm, Fused score: 93.5%
+2025-02-26 15:06:17 - Obstacle detected: Visual 94.0%, Distance 2.6cm, Fused score: 94.5%
+2025-02-26 15:06:20 - Obstacle detected: Visual 99.2%, Distance 4.3cm, Fused score: 93.8%
+2025-02-26 15:08:22 - Obstacle detected: Visual 99.1%, Distance 3.0cm, Fused score: 95.6%
+2025-02-26 15:08:25 - Obstacle detected: Visual 99.1%, Distance 3.0cm, Fused score: 95.6%
+2025-02-26 15:08:28 - Obstacle detected: Visual 96.1%, Distance 3.0cm, Fused score: 94.7%
+2025-02-26 15:08:31 - Obstacle detected: Visual 91.1%, Distance 3.0cm, Fused score: 93.2%
+2025-02-26 15:08:38 - Obstacle detected: Visual 94.2%, Distance 3.0cm, Fused score: 94.1%
+2025-02-26 15:10:00 - Obstacle detected: Visual 98.4%, Distance 5.6cm, Fused score: 91.7%
+
+--- New session started at 2025-02-26 15:11:06 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-26 15:11:07 - Obstacle detected: Visual 99.2%, Distance 4.6cm, Fused score: 93.3%
+2025-02-26 15:11:20 - Obstacle detected: Visual 99.0%, Distance 8.2cm, Fused score: 88.3%
+2025-02-26 15:11:23 - Obstacle detected: Visual 37.5%, Distance 6.5cm, Fused score: 72.1%
+2025-02-26 15:11:26 - Obstacle detected: Visual 46.8%, Distance 9.5cm, Fused score: 70.7%
+2025-02-26 15:11:31 - Obstacle detected: Visual 72.6%, Distance 12.6cm, Fused score: 74.1%
+2025-02-26 15:11:34 - Obstacle detected: Visual 72.4%, Distance 11.7cm, Fused score: 75.3%
+2025-02-26 15:11:37 - Obstacle detected: Visual 88.5%, Distance 10.9cm, Fused score: 81.3%
+2025-02-26 15:11:40 - Obstacle detected: Visual 40.4%, Distance 8.5cm, Fused score: 70.3%
+2025-02-26 15:12:00 - Obstacle detected: Visual 61.0%, Distance 1.0cm, Fused score: 72.3%
+2025-02-26 15:12:04 - Obstacle detected: Visual 89.7%, Distance 16.0cm, Fused score: 74.5%
+2025-02-26 15:12:17 - Obstacle detected: Visual 92.8%, Distance 3.0cm, Fused score: 93.7%
+2025-02-26 15:12:20 - Obstacle detected: Visual 99.2%, Distance 1.7cm, Fused score: 97.4%
+2025-02-26 15:12:23 - Obstacle detected: Visual 99.2%, Distance 1.7cm, Fused score: 97.4%
+2025-02-26 15:12:26 - Obstacle detected: Visual 99.2%, Distance 1.7cm, Fused score: 97.4%
+2025-02-26 15:12:29 - Obstacle detected: Visual 99.2%, Distance 1.7cm, Fused score: 97.4%
+2025-02-26 15:12:32 - Obstacle detected: Visual 99.2%, Distance 2.0cm, Fused score: 97.0%
+2025-02-26 15:12:35 - Obstacle detected: Visual 99.2%, Distance 19.9cm, Fused score: 72.0%
+2025-02-26 15:12:38 - Obstacle detected: Visual 99.2%, Distance 18.6cm, Fused score: 73.8%
+2025-02-26 15:12:41 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 77.4%
+2025-02-26 15:12:49 - Obstacle detected: Visual 99.1%, Distance 8.5cm, Fused score: 87.9%
+--- Session ended at 2025-02-26 15:12:56 ---
+
+--- New session started at 2025-02-26 15:13:00 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-26 15:13:00 - Obstacle detected: Visual 99.2%, Distance 5.6cm, Fused score: 92.0%
+2025-02-26 15:13:03 - Obstacle detected: Visual 97.6%, Distance 5.6cm, Fused score: 91.5%
+--- Session ended at 2025-02-26 15:13:04 ---
+
+--- New session started at 2025-02-26 15:13:32 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-26 15:13:33 - Obstacle detected: Visual 99.2%, Distance 3.6cm, Fused score: 94.7%
+2025-02-26 15:13:37 - Obstacle detected: Visual 62.5%, Distance 8.4cm, Fused score: 77.1%
+2025-02-26 15:14:04 - Obstacle detected: Visual 37.8%, Distance 10.9cm, Fused score: 66.1%
+2025-02-26 15:14:07 - Obstacle detected: Visual 88.2%, Distance 2.3cm, Fused score: 66.7%
+2025-02-26 15:14:10 - Obstacle detected: Visual 65.5%, Distance 1.2cm, Fused score: 68.3%
+2025-02-26 15:14:17 - Obstacle detected: Visual 58.2%, Distance 5.6cm, Fused score: 79.7%
+2025-02-26 15:14:20 - Obstacle detected: Visual 83.7%, Distance 15.6cm, Fused score: 73.2%
+2025-02-26 15:14:29 - Obstacle detected: Visual 93.3%, Distance 6.2cm, Fused score: 89.3%
+2025-02-26 15:14:32 - Obstacle detected: Visual 93.0%, Distance 4.0cm, Fused score: 92.4%
+2025-02-26 15:14:35 - Obstacle detected: Visual 93.7%, Distance 4.3cm, Fused score: 92.1%
+2025-02-26 15:14:38 - Obstacle detected: Visual 90.3%, Distance 3.6cm, Fused score: 92.0%
+2025-02-26 15:14:43 - Obstacle detected: Visual 91.2%, Distance 4.0cm, Fused score: 91.8%
+2025-02-26 15:14:46 - Obstacle detected: Visual 73.6%, Distance 10.9cm, Fused score: 76.8%
+2025-02-26 15:14:49 - Obstacle detected: Visual 86.8%, Distance 8.5cm, Fused score: 84.2%
+2025-02-26 15:14:52 - Obstacle detected: Visual 79.1%, Distance 8.6cm, Fused score: 81.7%
+2025-02-26 15:15:07 - Obstacle detected: Visual 87.8%, Distance 3.0cm, Fused score: 65.8%
+2025-02-26 15:15:11 - Obstacle detected: Visual 88.9%, Distance 1.9cm, Fused score: 67.3%
+2025-02-26 15:15:21 - Obstacle detected: Visual 87.3%, Distance 1.0cm, Fused score: 68.6%
+2025-02-26 15:16:03 - Obstacle detected: Visual 90.7%, Distance 18.2cm, Fused score: 71.7%
+2025-02-26 15:16:06 - Obstacle detected: Visual 99.2%, Distance 9.2cm, Fused score: 86.9%
+2025-02-26 15:16:09 - Obstacle detected: Visual 99.2%, Distance 9.2cm, Fused score: 86.9%
+2025-02-26 15:16:12 - Obstacle detected: Visual 99.2%, Distance 9.2cm, Fused score: 86.9%
+2025-02-26 15:16:15 - Obstacle detected: Visual 99.2%, Distance 9.2cm, Fused score: 86.9%
+--- Session ended at 2025-02-26 15:16:16 ---
+
+--- New session started at 2025-02-28 13:59:39 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-28 13:59:40 - Obstacle detected: Visual 99.2%, Distance 4.9cm, Fused score: 92.8%
+2025-02-28 13:59:43 - Obstacle detected: Visual 32.1%, Distance 5.9cm, Fused score: 71.4%
+2025-02-28 13:59:46 - Obstacle detected: Visual 39.4%, Distance 5.9cm, Fused score: 65.5%
+2025-02-28 13:59:54 - Obstacle detected: Visual 94.5%, Distance 17.9cm, Fused score: 73.3%
+2025-02-28 13:59:57 - Obstacle detected: Visual 84.2%, Distance 7.0cm, Fused score: 85.5%
+2025-02-28 14:00:00 - Obstacle detected: Visual 68.3%, Distance 16.6cm, Fused score: 67.2%
+2025-02-28 14:00:03 - Obstacle detected: Visual 99.2%, Distance 4.9cm, Fused score: 92.9%
+2025-02-28 14:00:06 - Obstacle detected: Visual 99.2%, Distance 4.9cm, Fused score: 92.9%
+2025-02-28 14:00:09 - Obstacle detected: Visual 99.2%, Distance 4.9cm, Fused score: 92.9%
+2025-02-28 14:00:12 - Obstacle detected: Visual 87.6%, Distance 4.9cm, Fused score: 89.4%
+2025-02-28 14:00:15 - Obstacle detected: Visual 98.9%, Distance 4.9cm, Fused score: 92.8%
+2025-02-28 14:00:18 - Obstacle detected: Visual 99.2%, Distance 4.9cm, Fused score: 92.9%
+2025-02-28 14:00:21 - Obstacle detected: Visual 99.2%, Distance 4.9cm, Fused score: 92.9%
+2025-02-28 14:00:24 - Obstacle detected: Visual 99.2%, Distance 3.9cm, Fused score: 94.2%
+2025-02-28 14:00:27 - Obstacle detected: Visual 99.0%, Distance 3.0cm, Fused score: 95.5%
+2025-02-28 14:00:30 - Obstacle detected: Visual 99.2%, Distance 9.5cm, Fused score: 86.4%
+2025-02-28 14:00:33 - Obstacle detected: Visual 99.2%, Distance 3.9cm, Fused score: 94.2%
+2025-02-28 14:00:36 - Obstacle detected: Visual 99.2%, Distance 9.5cm, Fused score: 86.4%
+2025-02-28 14:00:39 - Obstacle detected: Visual 99.2%, Distance 3.9cm, Fused score: 94.3%
+2025-02-28 14:00:42 - Obstacle detected: Visual 99.2%, Distance 9.5cm, Fused score: 86.4%
+2025-02-28 14:00:45 - Obstacle detected: Visual 99.2%, Distance 3.9cm, Fused score: 94.2%
+--- Session ended at 2025-02-28 14:00:46 ---
+
+--- New session started at 2025-02-28 14:09:58 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-28 14:09:58 - Obstacle detected: Visual 99.2%, Distance 4.9cm, Fused score: 92.9%
+2025-02-28 14:10:01 - Obstacle detected: Visual 99.2%, Distance 4.9cm, Fused score: 92.9%
+2025-02-28 14:10:04 - Obstacle detected: Visual 99.2%, Distance 12.6cm, Fused score: 82.1%
+2025-02-28 14:10:07 - Obstacle detected: Visual 99.2%, Distance 12.6cm, Fused score: 82.1%
+--- Session ended at 2025-02-28 14:10:10 ---
+
+--- New session started at 2025-02-28 14:59:40 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+
+--- New session started at 2025-02-28 15:01:32 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+
+--- New session started at 2025-02-28 15:04:34 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+
+--- New session started at 2025-02-28 15:07:43 by 10 ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-28 15:08:02 - Obstacle detected: Distance 3.3cm, Visual 95.0%, Fused score: 65.4%
+2025-02-28 15:08:33 - Obstacle detected: Distance 9.9cm, Visual 90.0%, Fused score: 83.2%
+2025-02-28 15:08:43 - Obstacle detected: Distance 9.9cm, Visual 96.3%, Fused score: 85.1%
+
+--- New session started at 2025-02-28 15:08:53 by 10 ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-28 15:09:03 - Obstacle detected: Distance 2.6cm, Visual 24.2%, Fused score: 66.3%
+2025-02-28 15:09:06 - Obstacle detected: Distance 3.3cm, Visual 50.8%, Fused score: 65.4%
+2025-02-28 15:09:09 - Obstacle detected: Distance 3.3cm, Visual 43.7%, Fused score: 65.4%
+2025-02-28 15:09:12 - Obstacle detected: Distance 3.3cm, Visual 84.2%, Fused score: 65.4%
+2025-02-28 15:09:15 - Obstacle detected: Distance 3.3cm, Visual 75.3%, Fused score: 65.4%
+2025-02-28 15:09:18 - Obstacle detected: Distance 3.3cm, Visual 39.1%, Fused score: 65.4%
+2025-02-28 15:09:22 - Obstacle detected: Distance 3.3cm, Visual 88.3%, Fused score: 65.4%
+
+--- New session started at 2025-02-28 15:09:36 by 10 ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-28 15:09:38 - Obstacle detected: Distance 10.9cm, Visual 99.2%, Fused score: 84.5%
+2025-02-28 15:10:11 - Obstacle detected: Distance 9.0cm, Visual 99.2%, Fused score: 87.1%
+2025-02-28 15:10:14 - Obstacle detected: Distance 16.3cm, Visual 99.2%, Fused score: 76.9%
+2025-02-28 15:10:17 - Obstacle detected: Distance 15.7cm, Visual 99.2%, Fused score: 77.8%
+2025-02-28 15:10:20 - Obstacle detected: Distance 15.7cm, Visual 99.2%, Fused score: 77.8%
+2025-02-28 15:10:23 - Obstacle detected: Distance 15.7cm, Visual 99.2%, Fused score: 77.8%
+2025-02-28 15:10:26 - Obstacle detected: Distance 15.7cm, Visual 99.2%, Fused score: 77.8%
+2025-02-28 15:10:29 - Obstacle detected: Distance 15.7cm, Visual 99.2%, Fused score: 77.8%
+
+--- New session started at 2025-02-28 15:12:39 by 10 ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+
+--- New session started at 2025-02-28 15:12:50 by 10 ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+2025-02-28 15:12:50 - Obstacle detected: Distance 1.7cm, Visual 0.0%, Fused score: 82.7%
+2025-02-28 15:12:54 - Obstacle detected: Distance 16.6cm, Visual 99.2%, Fused score: 76.5%
+2025-02-28 15:12:57 - Obstacle detected: Distance 15.9cm, Visual 99.2%, Fused score: 77.5%
+2025-02-28 15:13:00 - Obstacle detected: Distance 15.9cm, Visual 99.2%, Fused score: 77.5%
+2025-02-28 15:13:03 - Obstacle detected: Distance 15.9cm, Visual 99.2%, Fused score: 77.5%
+
+--- New session started at 2025-03-06 14:06:31 by 10 ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+
+--- New session started at 2025-03-06 14:08:43 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+2025-03-06 14:08:43 - Obstacle detected: Visual 99.2%, Distance 31.2cm, Fused score: 80.7%
+2025-03-06 14:08:47 - Obstacle detected: Visual 99.2%, Distance 29.9cm, Fused score: 81.5%
+2025-03-06 14:08:50 - Obstacle detected: Visual 99.2%, Distance 31.2cm, Fused score: 80.7%
+2025-03-06 14:08:53 - Obstacle detected: Visual 99.2%, Distance 31.2cm, Fused score: 80.7%
+2025-03-06 14:09:06 - Obstacle detected: Visual 92.1%, Distance 32.0cm, Fused score: 75.2%
+2025-03-06 14:09:10 - Obstacle detected: Visual 97.9%, Distance 31.2cm, Fused score: 79.8%
+2025-03-06 14:09:15 - Obstacle detected: Visual 97.1%, Distance 31.2cm, Fused score: 79.3%
+2025-03-06 14:09:18 - Obstacle detected: Visual 86.6%, Distance 7.2cm, Fused score: 86.3%
+2025-03-06 14:09:21 - Obstacle detected: Visual 99.2%, Distance 31.2cm, Fused score: 80.7%
+--- Session ended at 2025-03-06 14:09:33 ---
+
+--- New session started at 2025-03-06 14:09:41 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+2025-03-06 14:10:02 - Obstacle detected: Visual 65.5%, Distance 3.6cm, Fused score: 73.7%
+2025-03-06 14:10:48 - Obstacle detected: Visual 99.0%, Distance 48.6cm, Fused score: 70.1%
+2025-03-06 14:11:21 - Obstacle detected: Visual 99.1%, Distance 32.0cm, Fused score: 80.2%
+
+--- New session started at 2025-03-06 14:16:06 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+2025-03-06 14:16:06 - Obstacle detected: Visual 99.2%, Distance 16.7cm, Fused score: 89.4%
+2025-03-06 14:16:09 - Obstacle detected: Visual 89.8%, Distance 16.7cm, Fused score: 82.9%
+2025-03-06 14:16:32 - Obstacle detected: Visual 82.9%, Distance 16.7cm, Fused score: 78.0%
+2025-03-06 14:16:36 - Obstacle detected: Visual 99.0%, Distance 3.0cm, Fused score: 97.5%
+2025-03-06 14:16:41 - Obstacle detected: Visual 64.0%, Distance 7.1cm, Fused score: 70.5%
+2025-03-06 14:16:45 - Obstacle detected: Visual 78.1%, Distance 16.7cm, Fused score: 74.7%
+2025-03-06 14:16:49 - Obstacle detected: Visual 91.8%, Distance 17.8cm, Fused score: 83.5%
+2025-03-06 14:16:53 - Obstacle detected: Visual 93.0%, Distance 15.8cm, Fused score: 85.7%
+2025-03-06 14:16:56 - Obstacle detected: Visual 99.2%, Distance 16.7cm, Fused score: 89.4%
+2025-03-06 14:16:59 - Obstacle detected: Visual 99.2%, Distance 16.4cm, Fused score: 89.6%
+2025-03-06 14:17:02 - Obstacle detected: Visual 99.2%, Distance 16.7cm, Fused score: 89.4%
+2025-03-06 14:17:05 - Obstacle detected: Visual 99.2%, Distance 16.7cm, Fused score: 89.4%
+2025-03-06 14:17:08 - Obstacle detected: Visual 99.2%, Distance 16.6cm, Fused score: 89.5%
+2025-03-06 14:17:11 - Obstacle detected: Visual 99.1%, Distance 16.8cm, Fused score: 89.3%
+2025-03-06 14:17:15 - Obstacle detected: Visual 98.1%, Distance 2.6cm, Fused score: 97.1%
+2025-03-06 14:17:18 - Obstacle detected: Visual 98.7%, Distance 3.0cm, Fused score: 97.3%
+2025-03-06 14:17:27 - Obstacle detected: Visual 98.7%, Distance 3.9cm, Fused score: 96.7%
+2025-03-06 14:17:30 - Obstacle detected: Visual 99.2%, Distance 4.0cm, Fused score: 97.1%
+2025-03-06 14:17:33 - Obstacle detected: Visual 99.2%, Distance 4.8cm, Fused score: 96.5%
+2025-03-06 14:17:36 - Obstacle detected: Visual 77.6%, Distance 3.1cm, Fused score: 82.5%
+--- Session ended at 2025-03-06 14:17:42 ---
+
+--- New session started at 2025-03-06 14:17:52 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+2025-03-06 14:17:53 - Obstacle detected: Visual 99.2%, Distance 17.0cm, Fused score: 89.2%
+2025-03-06 14:17:59 - Obstacle detected: Visual 97.2%, Distance 20.6cm, Fused score: 85.7%
+2025-03-06 14:18:22 - Obstacle detected: Visual 98.9%, Distance 21.3cm, Fused score: 86.4%
+2025-03-06 14:18:33 - Obstacle detected: Visual 96.4%, Distance 14.3cm, Fused score: 88.9%
+
+--- New session started at 2025-03-06 14:18:39 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+2025-03-06 14:18:40 - Obstacle detected: Visual 99.2%, Distance 28.7cm, Fused score: 82.2%
+2025-03-06 14:18:43 - Obstacle detected: Visual 86.5%, Distance 24.7cm, Fused score: 75.7%
+2025-03-06 14:18:46 - Obstacle detected: Visual 99.2%, Distance 26.3cm, Fused score: 83.6%
+2025-03-06 14:18:58 - Obstacle detected: Visual 92.5%, Distance 28.7cm, Fused score: 77.5%
+
+--- New session started at 2025-03-06 14:19:13 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+2025-03-06 14:19:14 - Obstacle detected: Visual 99.2%, Distance 23.7cm, Fused score: 85.2%
+2025-03-06 14:19:17 - Obstacle detected: Visual 98.4%, Distance 25.9cm, Fused score: 83.4%
+2025-03-06 14:19:22 - Obstacle detected: Visual 90.6%, Distance 30.2cm, Fused score: 75.3%
+2025-03-06 14:19:25 - Obstacle detected: Visual 91.2%, Distance 24.8cm, Fused score: 79.0%
+
+--- New session started at 2025-03-06 14:19:42 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+2025-03-06 14:19:43 - Obstacle detected: Visual 99.2%, Distance 25.7cm, Fused score: 84.0%
+2025-03-06 14:19:46 - Obstacle detected: Visual 99.2%, Distance 30.1cm, Fused score: 81.4%
+2025-03-06 14:19:49 - Obstacle detected: Visual 99.2%, Distance 27.0cm, Fused score: 83.2%
+2025-03-06 14:19:52 - Obstacle detected: Visual 92.0%, Distance 29.9cm, Fused score: 76.5%
+2025-03-06 14:19:55 - Obstacle detected: Visual 94.4%, Distance 27.3cm, Fused score: 79.7%
+2025-03-06 14:19:58 - Obstacle detected: Visual 85.6%, Distance 27.5cm, Fused score: 73.4%
+2025-03-06 14:20:01 - Obstacle detected: Visual 96.2%, Distance 26.4cm, Fused score: 81.5%
+2025-03-06 14:20:04 - Obstacle detected: Visual 92.4%, Distance 27.1cm, Fused score: 78.4%
+2025-03-06 14:20:07 - Obstacle detected: Visual 99.2%, Distance 30.9cm, Fused score: 80.9%
+
+--- New session started at 2025-03-06 14:20:17 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+2025-03-06 14:20:17 - Obstacle detected: Visual 99.2%, Distance 25.1cm, Fused score: 84.3%
+2025-03-06 14:20:21 - Obstacle detected: Visual 83.9%, Distance 29.7cm, Fused score: 70.9%
+2025-03-06 14:20:24 - Obstacle detected: Visual 99.2%, Distance 34.1cm, Fused score: 78.9%
+
+--- New session started at 2025-03-06 14:30:37 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+Filter settings: Length=5
+2025-03-06 14:30:37 - Obstacle detected: Visual 99.2%, Distance 30.0cm, Fused score: 81.4%
+2025-03-06 14:30:40 - Obstacle detected: Visual 65.6%, Distance 6.6cm, Fused score: 72.0%
+2025-03-06 14:30:52 - Obstacle detected: Visual 99.1%, Distance 2.9cm, Fused score: 97.6%
+2025-03-06 14:30:55 - Obstacle detected: Visual 97.7%, Distance 2.0cm, Fused score: 97.2%
+2025-03-06 14:30:58 - Obstacle detected: Visual 96.4%, Distance 7.3cm, Fused score: 93.1%
+2025-03-06 14:31:01 - Obstacle detected: Visual 99.1%, Distance 6.6cm, Fused score: 95.5%
+2025-03-06 14:31:04 - Obstacle detected: Visual 89.5%, Distance 7.5cm, Fused score: 88.1%
+2025-03-06 14:31:09 - Obstacle detected: Visual 98.4%, Distance 3.3cm, Fused score: 96.9%
+2025-03-06 14:31:13 - Obstacle detected: Visual 98.1%, Distance 7.7cm, Fused score: 94.1%
+2025-03-06 14:31:17 - Obstacle detected: Visual 99.2%, Distance 6.1cm, Fused score: 95.8%
+2025-03-06 14:31:33 - Obstacle detected: Visual 97.7%, Distance 20.3cm, Fused score: 86.2%
+2025-03-06 14:31:36 - Obstacle detected: Visual 95.4%, Distance 7.5cm, Fused score: 92.3%
+2025-03-06 14:31:41 - Obstacle detected: Visual 87.5%, Distance 7.5cm, Fused score: 86.7%
+2025-03-06 14:31:44 - Obstacle detected: Visual 65.1%, Distance 7.5cm, Fused score: 71.0%
+2025-03-06 14:31:47 - Obstacle detected: Visual 99.1%, Distance 7.7cm, Fused score: 94.8%
+2025-03-06 14:31:56 - Obstacle detected: Visual 89.7%, Distance 6.3cm, Fused score: 89.0%
+2025-03-06 14:31:59 - Obstacle detected: Visual 94.1%, Distance 7.1cm, Fused score: 91.6%
+2025-03-06 14:32:02 - Obstacle detected: Visual 96.2%, Distance 3.3cm, Fused score: 95.4%
+2025-03-06 14:32:05 - Obstacle detected: Visual 98.3%, Distance 6.5cm, Fused score: 94.9%
+2025-03-06 14:32:08 - Obstacle detected: Visual 96.6%, Distance 3.6cm, Fused score: 95.4%
+2025-03-06 14:32:12 - Obstacle detected: Visual 97.6%, Distance 3.1cm, Fused score: 96.5%
+2025-03-06 14:32:15 - Obstacle detected: Visual 97.2%, Distance 17.1cm, Fused score: 87.8%
+2025-03-06 14:32:18 - Obstacle detected: Visual 97.0%, Distance 16.1cm, Fused score: 88.3%
+
+--- New session started at 2025-03-06 14:33:18 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+Filter settings: Length=5
+2025-03-06 14:33:19 - Obstacle detected: Visual 99.2%, Distance 26.8cm, Fused score: 83.3%
+2025-03-06 14:33:25 - Obstacle detected: Visual 97.3%, Distance 8.1cm, Fused score: 93.3%
+2025-03-06 14:33:31 - Obstacle detected: Visual 94.7%, Distance 7.2cm, Fused score: 92.0%
+2025-03-06 14:33:35 - Obstacle detected: Visual 91.1%, Distance 7.2cm, Fused score: 89.5%
+2025-03-06 14:33:38 - Obstacle detected: Visual 96.1%, Distance 7.4cm, Fused score: 92.8%
+2025-03-06 14:33:44 - Obstacle detected: Visual 77.9%, Distance 10.2cm, Fused score: 78.4%
+2025-03-06 14:33:47 - Obstacle detected: Visual 66.9%, Distance 8.7cm, Fused score: 71.6%
+2025-03-06 14:33:50 - Obstacle detected: Visual 97.6%, Distance 10.7cm, Fused score: 91.9%
+2025-03-06 14:33:53 - Obstacle detected: Visual 96.8%, Distance 14.8cm, Fused score: 88.9%
+2025-03-06 14:33:56 - Obstacle detected: Visual 97.8%, Distance 14.5cm, Fused score: 89.7%
+2025-03-06 14:34:00 - Obstacle detected: Visual 98.9%, Distance 16.3cm, Fused score: 89.4%
+2025-03-06 14:34:03 - Obstacle detected: Visual 98.9%, Distance 9.5cm, Fused score: 93.5%
+2025-03-06 14:34:06 - Obstacle detected: Visual 99.1%, Distance 10.2cm, Fused score: 93.2%
+
+--- New session started at 2025-03-06 14:39:28 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+Filter settings: Length=5
+2025-03-06 14:39:28 - Obstacle detected: Visual 99.2%, Distance 43.1cm, Fused score: 73.6%
+2025-03-06 14:39:34 - Obstacle detected: Visual 99.1%, Distance 7.2cm, Fused score: 95.0%
+
+--- New session started at 2025-03-06 14:40:17 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+Filter settings: Length=5
+2025-03-06 14:40:18 - Obstacle detected: Visual 99.2%, Distance 39.0cm, Fused score: 76.0%
+2025-03-06 14:40:25 - Obstacle detected: Visual 97.3%, Distance 9.1cm, Fused score: 92.6%
+2025-03-06 14:40:45 - Obstacle detected: Visual 94.0%, Distance 5.4cm, Fused score: 92.6%
+2025-03-06 14:40:48 - Obstacle detected: Visual 94.0%, Distance 4.9cm, Fused score: 92.8%
+2025-03-06 14:40:51 - Obstacle detected: Visual 99.1%, Distance 17.0cm, Fused score: 89.2%
+2025-03-06 14:40:57 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 93.5%
+2025-03-06 14:41:00 - Obstacle detected: Visual 99.0%, Distance 9.9cm, Fused score: 93.4%
+2025-03-06 14:41:03 - Obstacle detected: Visual 99.0%, Distance 9.9cm, Fused score: 93.4%
+2025-03-06 14:41:06 - Obstacle detected: Visual 99.0%, Distance 9.9cm, Fused score: 93.4%
+2025-03-06 14:41:09 - Obstacle detected: Visual 99.0%, Distance 9.9cm, Fused score: 93.4%
+
+--- New session started at 2025-03-06 14:42:02 by SkywardSyntax ---
+Sensor weights: Camera 0.70, Ultrasonic 0.30
+Filter settings: Length=5
+2025-03-06 14:42:03 - Obstacle detected: Visual 99.2%, Distance 34.2cm, Fused score: 78.9%
+2025-03-06 14:42:06 - Obstacle detected: Visual 99.1%, Distance 9.9cm, Fused score: 93.4%
+2025-03-06 14:42:09 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 93.5%
+2025-03-06 14:42:12 - Obstacle detected: Visual 98.3%, Distance 10.2cm, Fused score: 92.7%
+2025-03-06 14:42:24 - Obstacle detected: Visual 75.7%, Distance 16.2cm, Fused score: 73.3%
+2025-03-06 14:42:28 - Obstacle detected: Visual 79.1%, Distance 2.7cm, Fused score: 83.8%
+2025-03-06 14:42:31 - Obstacle detected: Visual 99.2%, Distance 6.9cm, Fused score: 95.3%
+2025-03-06 14:42:34 - Obstacle detected: Visual 95.0%, Distance 6.9cm, Fused score: 92.4%
+2025-03-06 14:42:38 - Obstacle detected: Visual 84.0%, Distance 6.9cm, Fused score: 84.6%
+2025-03-06 14:42:41 - Obstacle detected: Visual 97.0%, Distance 6.9cm, Fused score: 93.8%
+2025-03-06 14:42:45 - Obstacle detected: Visual 94.1%, Distance 6.9cm, Fused score: 91.7%
+2025-03-06 14:42:51 - Obstacle detected: Visual 92.1%, Distance 7.0cm, Fused score: 90.2%
+2025-03-06 14:42:54 - Obstacle detected: Visual 83.4%, Distance 7.2cm, Fused score: 84.1%
+2025-03-06 14:42:59 - Obstacle detected: Visual 95.6%, Distance 8.0cm, Fused score: 92.1%
+2025-03-06 14:43:06 - Obstacle detected: Visual 85.4%, Distance 8.0cm, Fused score: 85.0%
+2025-03-06 14:43:09 - Obstacle detected: Visual 98.8%, Distance 6.9cm, Fused score: 95.0%
+2025-03-06 14:43:12 - Obstacle detected: Visual 99.2%, Distance 6.9cm, Fused score: 95.3%
+2025-03-06 14:43:15 - Obstacle detected: Visual 99.2%, Distance 8.8cm, Fused score: 94.1%
+2025-03-06 14:43:18 - Obstacle detected: Visual 99.2%, Distance 6.9cm, Fused score: 95.3%
+2025-03-06 14:43:21 - Obstacle detected: Visual 99.2%, Distance 8.1cm, Fused score: 94.6%
+2025-03-06 14:43:24 - Obstacle detected: Visual 99.2%, Distance 11.2cm, Fused score: 92.7%
+2025-03-06 14:43:27 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 93.4%
+2025-03-06 14:43:30 - Obstacle detected: Visual 99.2%, Distance 10.3cm, Fused score: 93.2%
+2025-03-06 14:43:33 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 93.5%
+2025-03-06 14:43:36 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 93.5%
+2025-03-06 14:43:39 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 93.5%
+2025-03-06 14:43:42 - Obstacle detected: Visual 99.2%, Distance 8.2cm, Fused score: 94.5%
+2025-03-06 14:43:45 - Obstacle detected: Visual 99.2%, Distance 8.2cm, Fused score: 94.5%
+2025-03-06 14:43:49 - Obstacle detected: Visual 99.1%, Distance 8.2cm, Fused score: 94.5%
+2025-03-06 14:43:52 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 93.5%
+2025-03-06 14:43:55 - Obstacle detected: Visual 99.2%, Distance 8.2cm, Fused score: 94.5%
+2025-03-06 14:43:58 - Obstacle detected: Visual 99.2%, Distance 8.3cm, Fused score: 94.5%
+2025-03-06 14:44:01 - Obstacle detected: Visual 99.1%, Distance 8.2cm, Fused score: 94.5%
+2025-03-06 14:44:04 - Obstacle detected: Visual 99.2%, Distance 8.2cm, Fused score: 94.5%
+2025-03-06 14:44:07 - Obstacle detected: Visual 99.1%, Distance 8.2cm, Fused score: 94.5%
+2025-03-06 14:44:10 - Obstacle detected: Visual 99.2%, Distance 16.2cm, Fused score: 89.7%
+2025-03-06 14:44:13 - Obstacle detected: Visual 98.8%, Distance 40.8cm, Fused score: 74.7%
+
+--- New session started at 2025-03-06 14:44:22 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+Filter settings: Length=5
+2025-03-06 14:44:38 - Obstacle detected: Visual 98.0%, Distance 2.0cm, Fused score: 96.6%
+2025-03-06 14:44:41 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 85.9%
+2025-03-06 14:44:44 - Obstacle detected: Visual 98.1%, Distance 9.9cm, Fused score: 85.6%
+2025-03-06 14:44:47 - Obstacle detected: Visual 99.0%, Distance 13.9cm, Fused score: 80.3%
+2025-03-06 14:44:50 - Obstacle detected: Visual 99.0%, Distance 16.0cm, Fused score: 77.3%
+2025-03-06 14:44:53 - Obstacle detected: Visual 99.1%, Distance 6.9cm, Fused score: 90.1%
+2025-03-06 14:44:56 - Obstacle detected: Visual 99.2%, Distance 8.2cm, Fused score: 88.3%
+2025-03-06 14:44:59 - Obstacle detected: Visual 99.2%, Distance 9.6cm, Fused score: 86.4%
+2025-03-06 14:45:02 - Obstacle detected: Visual 99.1%, Distance 9.6cm, Fused score: 86.4%
+2025-03-06 14:45:05 - Obstacle detected: Visual 99.1%, Distance 9.6cm, Fused score: 86.4%
+2025-03-06 14:45:08 - Obstacle detected: Visual 99.2%, Distance 7.8cm, Fused score: 88.8%
+2025-03-06 14:45:11 - Obstacle detected: Visual 99.2%, Distance 9.5cm, Fused score: 86.4%
+2025-03-06 14:45:14 - Obstacle detected: Visual 99.2%, Distance 9.2cm, Fused score: 86.9%
+2025-03-06 14:45:17 - Obstacle detected: Visual 99.2%, Distance 15.2cm, Fused score: 78.5%
+                                                                                           
+--- New session started at 2025-03-12 13:30:16 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+Filter settings: Length=5
+2025-03-12 13:30:25 - Obstacle detected: Visual 99.2%, Distance 18.3cm, Fused score: 74.1%
+2025-03-12 13:30:28 - Obstacle detected: Visual 93.8%, Distance 18.9cm, Fused score: 71.7%
+2025-03-12 13:30:52 - Obstacle detected: Visual 95.9%, Distance 20.6cm, Fused score: 70.0%
+2025-03-12 13:30:58 - Obstacle detected: Visual 99.0%, Distance 20.2cm, Fused score: 71.4%
+2025-03-12 13:31:02 - Obstacle detected: Visual 99.2%, Distance 20.2cm, Fused score: 71.4%
+2025-03-12 13:31:07 - Obstacle detected: Visual 89.4%, Distance 17.0cm, Fused score: 73.0%
+2025-03-12 13:31:11 - Obstacle detected: Visual 99.2%, Distance 15.4cm, Fused score: 78.2%
+2025-03-12 13:31:14 - Obstacle detected: Visual 99.2%, Distance 16.4cm, Fused score: 76.8%
+2025-03-12 13:31:17 - Obstacle detected: Visual 96.6%, Distance 16.4cm, Fused score: 76.1%
+2025-03-12 13:31:25 - Obstacle detected: Visual 98.3%, Distance 17.7cm, Fused score: 74.7%
+2025-03-12 13:31:28 - Obstacle detected: Visual 70.8%, Distance 14.9cm, Fused score: 70.4%
+2025-03-12 13:31:31 - Obstacle detected: Visual 99.2%, Distance 20.4cm, Fused score: 71.2%
+2025-03-12 13:31:38 - Obstacle detected: Visual 98.2%, Distance 16.1cm, Fused score: 77.0%
+2025-03-12 13:31:41 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 77.3%
+2025-03-12 13:31:44 - Obstacle detected: Visual 89.1%, Distance 16.1cm, Fused score: 74.3%
+2025-03-12 13:31:48 - Obstacle detected: Visual 88.9%, Distance 16.4cm, Fused score: 73.7%
+2025-03-12 13:31:51 - Obstacle detected: Visual 91.4%, Distance 16.4cm, Fused score: 74.5%
+2025-03-12 13:31:55 - Obstacle detected: Visual 83.6%, Distance 16.4cm, Fused score: 72.1%
+2025-03-12 13:31:59 - Obstacle detected: Visual 98.3%, Distance 19.9cm, Fused score: 71.6%
+2025-03-12 13:32:06 - Obstacle detected: Visual 97.5%, Distance 19.3cm, Fused score: 72.2%
+2025-03-12 13:32:09 - Obstacle detected: Visual 98.8%, Distance 20.9cm, Fused score: 70.4%
+--- Session ended at 2025-03-12 13:32:16 ---
+
+--- New session started at 2025-03-12 13:32:31 by SkywardSyntax ---
+Sensor weights: Camera 0.30, Ultrasonic 0.70
+Filter settings: Length=5
+2025-03-12 13:32:46 - Obstacle detected: Visual 97.3%, Distance 3.6cm, Fused score: 94.1%
+2025-03-12 13:32:49 - Obstacle detected: Visual 99.2%, Distance 3.6cm, Fused score: 94.7%
+2025-03-12 13:32:56 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 77.3%
+2025-03-12 13:32:59 - Obstacle detected: Visual 99.2%, Distance 20.8cm, Fused score: 70.6%
+2025-03-12 13:33:10 - Obstacle detected: Visual 99.2%, Distance 18.5cm, Fused score: 73.9%
+2025-03-12 13:33:13 - Obstacle detected: Visual 99.2%, Distance 3.9cm, Fused score: 94.2%
+2025-03-12 13:33:16 - Obstacle detected: Visual 99.2%, Distance 3.3cm, Fused score: 95.1%
+2025-03-12 13:33:19 - Obstacle detected: Visual 99.2%, Distance 6.1cm, Fused score: 91.2%
+2025-03-12 13:33:29 - Obstacle detected: Visual 99.2%, Distance 17.2cm, Fused score: 75.6%
+2025-03-12 13:33:38 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 77.3%
+2025-03-12 13:33:41 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 77.3%
+2025-03-12 13:33:44 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 77.3%
+2025-03-12 13:33:47 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 77.2%
+2025-03-12 13:33:51 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 77.3%
+2025-03-12 13:33:54 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 77.3%
+2025-03-12 13:33:57 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 77.3%
+2025-03-12 13:34:00 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 77.3%
+2025-03-12 13:34:08 - Obstacle detected: Visual 99.2%, Distance 17.5cm, Fused score: 75.3%
+2025-03-12 13:34:11 - Obstacle detected: Visual 99.2%, Distance 16.4cm, Fused score: 76.8%
+2025-03-12 13:34:17 - Obstacle detected: Visual 99.2%, Distance 16.4cm, Fused score: 76.8%
+2025-03-12 13:34:25 - Obstacle detected: Visual 99.2%, Distance 20.2cm, Fused score: 71.4%
+2025-03-12 13:34:28 - Obstacle detected: Visual 99.2%, Distance 19.6cm, Fused score: 72.3%
+2025-03-12 13:34:31 - Obstacle detected: Visual 95.4%, Distance 19.6cm, Fused score: 71.2%
+2025-03-12 13:34:34 - Obstacle detected: Visual 99.2%, Distance 16.4cm, Fused score: 76.8%
+2025-03-12 13:34:37 - Obstacle detected: Visual 99.2%, Distance 16.4cm, Fused score: 76.8%
+2025-03-12 13:34:40 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 77.3%
+2025-03-12 13:34:43 - Obstacle detected: Visual 99.2%, Distance 16.4cm, Fused score: 76.8%
+2025-03-12 13:34:46 - Obstacle detected: Visual 99.2%, Distance 16.4cm, Fused score: 76.8%
+2025-03-12 13:34:51 - Obstacle detected: Visual 91.9%, Distance 16.4cm, Fused score: 74.7%
+2025-03-12 13:34:54 - Obstacle detected: Visual 92.2%, Distance 16.4cm, Fused score: 74.8%
+2025-03-12 13:35:12 - Obstacle detected: Visual 92.5%, Distance 16.7cm, Fused score: 74.3%
+2025-03-12 13:35:17 - Obstacle detected: Visual 93.1%, Distance 16.7cm, Fused score: 74.5%
+2025-03-12 13:35:26 - Obstacle detected: Visual 80.6%, Distance 16.7cm, Fused score: 70.8%
+2025-03-12 13:35:29 - Obstacle detected: Visual 98.7%, Distance 17.0cm, Fused score: 75.8%
+2025-03-12 13:35:32 - Obstacle detected: Visual 94.9%, Distance 18.3cm, Fused score: 72.9%
+2025-03-12 13:35:37 - Obstacle detected: Visual 95.1%, Distance 18.3cm, Fused score: 72.9%
+2025-03-12 13:35:44 - Obstacle detected: Visual 97.7%, Distance 17.0cm, Fused score: 75.5%
+2025-03-12 13:36:02 - Obstacle detected: Visual 98.3%, Distance 18.3cm, Fused score: 73.9%
+2025-03-12 13:36:27 - Obstacle detected: Visual 93.1%, Distance 17.0cm, Fused score: 74.1%
+2025-03-12 13:36:36 - Obstacle detected: Visual 95.7%, Distance 17.0cm, Fused score: 74.9%
+2025-03-12 13:36:40 - Obstacle detected: Visual 99.0%, Distance 17.0cm, Fused score: 75.9%
+2025-03-12 13:36:45 - Obstacle detected: Visual 95.1%, Distance 16.7cm, Fused score: 75.2%
+2025-03-12 13:36:48 - Obstacle detected: Visual 91.2%, Distance 7.9cm, Fused score: 86.4%
+2025-03-12 13:36:51 - Obstacle detected: Visual 93.5%, Distance 7.9cm, Fused score: 87.0%
+2025-03-12 13:36:54 - Obstacle detected: Visual 93.8%, Distance 7.9cm, Fused score: 87.1%
+2025-03-12 13:36:57 - Obstacle detected: Visual 94.6%, Distance 11.8cm, Fused score: 81.9%
+2025-03-12 13:37:00 - Obstacle detected: Visual 96.8%, Distance 19.1cm, Fused score: 72.3%
+2025-03-12 13:37:05 - Obstacle detected: Visual 97.1%, Distance 20.7cm, Fused score: 70.2%
+2025-03-12 13:37:08 - Obstacle detected: Visual 97.5%, Distance 6.2cm, Fused score: 90.5%
+2025-03-12 13:37:11 - Obstacle detected: Visual 95.4%, Distance 6.2cm, Fused score: 89.9%
+2025-03-12 13:37:14 - Obstacle detected: Visual 97.4%, Distance 6.2cm, Fused score: 90.5%
+2025-03-12 13:37:17 - Obstacle detected: Visual 97.6%, Distance 6.2cm, Fused score: 90.5%
+2025-03-12 13:37:20 - Obstacle detected: Visual 98.1%, Distance 8.9cm, Fused score: 87.0%
+2025-03-12 13:37:23 - Obstacle detected: Visual 97.2%, Distance 6.2cm, Fused score: 90.4%
+2025-03-12 13:37:26 - Obstacle detected: Visual 97.1%, Distance 6.2cm, Fused score: 90.4%
+2025-03-12 13:37:29 - Obstacle detected: Visual 97.5%, Distance 6.2cm, Fused score: 90.5%
+2025-03-12 13:37:32 - Obstacle detected: Visual 99.0%, Distance 6.2cm, Fused score: 91.0%
+2025-03-12 13:37:49 - Obstacle detected: Visual 98.4%, Distance 17.0cm, Fused score: 75.7%
+2025-03-12 13:37:52 - Obstacle detected: Visual 97.5%, Distance 15.6cm, Fused score: 77.4%
+2025-03-12 13:37:59 - Obstacle detected: Visual 97.9%, Distance 18.6cm, Fused score: 73.4%
+2025-03-12 13:38:02 - Obstacle detected: Visual 97.7%, Distance 5.9cm, Fused score: 91.1%
+2025-03-12 13:38:05 - Obstacle detected: Visual 98.1%, Distance 9.4cm, Fused score: 86.3%
+2025-03-12 13:38:08 - Obstacle detected: Visual 99.2%, Distance 6.2cm, Fused score: 91.0%
+2025-03-12 13:38:11 - Obstacle detected: Visual 99.2%, Distance 8.9cm, Fused score: 87.3%
+2025-03-12 13:38:14 - Obstacle detected: Visual 99.2%, Distance 5.9cm, Fused score: 91.5%
+2025-03-12 13:38:17 - Obstacle detected: Visual 99.2%, Distance 10.5cm, Fused score: 85.0%
+2025-03-12 13:38:20 - Obstacle detected: Visual 99.2%, Distance 4.5cm, Fused score: 93.5%
+2025-03-12 13:38:23 - Obstacle detected: Visual 99.2%, Distance 8.6cm, Fused score: 87.7%
+2025-03-12 13:38:26 - Obstacle detected: Visual 99.2%, Distance 6.9cm, Fused score: 90.1%
+2025-03-12 13:38:29 - Obstacle detected: Visual 99.2%, Distance 11.0cm, Fused score: 84.4%
+2025-03-12 13:38:33 - Obstacle detected: Visual 95.5%, Distance 17.0cm, Fused score: 74.8%
+2025-03-12 13:38:36 - Obstacle detected: Visual 96.8%, Distance 17.0cm, Fused score: 75.2%
+2025-03-12 13:38:40 - Obstacle detected: Visual 97.1%, Distance 17.8cm, Fused score: 74.3%
+2025-03-12 13:38:43 - Obstacle detected: Visual 95.1%, Distance 17.0cm, Fused score: 74.7%
+2025-03-12 13:38:46 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 90.6%
+2025-03-12 13:38:49 - Obstacle detected: Visual 99.2%, Distance 13.3cm, Fused score: 81.1%
+2025-03-12 13:38:52 - Obstacle detected: Visual 99.2%, Distance 6.8cm, Fused score: 90.3%
+2025-03-12 13:38:55 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 90.6%
+2025-03-12 13:38:58 - Obstacle detected: Visual 99.2%, Distance 11.1cm, Fused score: 84.3%
+2025-03-12 13:39:02 - Obstacle detected: Visual 99.2%, Distance 12.3cm, Fused score: 82.5%
+2025-03-12 13:39:05 - Obstacle detected: Visual 99.2%, Distance 9.2cm, Fused score: 86.8%
+2025-03-12 13:39:09 - Obstacle detected: Visual 99.2%, Distance 18.8cm, Fused score: 73.4%
+2025-03-12 13:39:12 - Obstacle detected: Visual 99.2%, Distance 20.8cm, Fused score: 70.6%
+2025-03-12 13:39:15 - Obstacle detected: Visual 99.2%, Distance 7.8cm, Fused score: 88.8%
+2025-03-12 13:39:18 - Obstacle detected: Visual 99.2%, Distance 6.2cm, Fused score: 91.0%
+2025-03-12 13:39:21 - Obstacle detected: Visual 99.2%, Distance 6.2cm, Fused score: 91.0%
+2025-03-12 13:39:24 - Obstacle detected: Visual 99.2%, Distance 14.0cm, Fused score: 80.1%
+2025-03-12 13:39:27 - Obstacle detected: Visual 99.2%, Distance 6.2cm, Fused score: 91.0%
+2025-03-12 13:39:30 - Obstacle detected: Visual 99.2%, Distance 8.8cm, Fused score: 87.4%
+2025-03-12 13:39:33 - Obstacle detected: Visual 99.2%, Distance 8.6cm, Fused score: 87.6%
+2025-03-12 13:39:42 - Obstacle detected: Visual 99.2%, Distance 18.5cm, Fused score: 73.8%
+2025-03-12 13:39:45 - Obstacle detected: Visual 99.2%, Distance 16.7cm, Fused score: 76.4%
+2025-03-12 13:39:54 - Obstacle detected: Visual 99.2%, Distance 20.2cm, Fused score: 71.4%
+2025-03-12 13:39:57 - Obstacle detected: Visual 99.2%, Distance 18.9cm, Fused score: 73.3%
+
+--- New session started at 2025-03-12 13:40:14 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+2025-03-12 13:40:20 - Obstacle detected: Visual 99.1%, Distance 16.0cm, Fused score: 70.8%
+2025-03-12 13:40:35 - Obstacle detected: Visual 81.4%, Distance 11.7cm, Fused score: 70.8%
+2025-03-12 13:40:47 - Obstacle detected: Visual 99.2%, Distance 9.9cm, Fused score: 91.7%
+2025-03-12 13:40:51 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 70.8%
+2025-03-12 13:41:12 - Obstacle detected: Visual 99.2%, Distance 15.3cm, Fused score: 73.3%
+2025-03-12 13:41:19 - Obstacle detected: Visual 99.2%, Distance 14.5cm, Fused score: 76.1%
+2025-03-12 13:41:22 - Obstacle detected: Visual 99.2%, Distance 12.6cm, Fused score: 82.4%
+2025-03-12 13:42:14 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 70.8%
+2025-03-12 13:42:23 - Obstacle detected: Visual 99.2%, Distance 12.4cm, Fused score: 83.1%
+2025-03-12 13:42:29 - Obstacle detected: Visual 98.7%, Distance 16.1cm, Fused score: 70.7%
+2025-03-12 13:42:32 - Obstacle detected: Visual 98.6%, Distance 15.0cm, Fused score: 74.2%
+2025-03-12 13:43:08 - Obstacle detected: Visual 99.0%, Distance 13.6cm, Fused score: 79.0%
+2025-03-12 13:43:33 - Obstacle detected: Visual 99.1%, Distance 15.3cm, Fused score: 73.3%
+2025-03-12 13:43:50 - Obstacle detected: Visual 65.3%, Distance 6.9cm, Fused score: 85.0%
+2025-03-12 13:43:53 - Obstacle detected: Visual 66.1%, Distance 9.2cm, Fused score: 79.2%
+2025-03-12 13:45:12 - Obstacle detected: Visual 82.8%, Distance 9.9cm, Fused score: 76.8%
+2025-03-12 13:45:40 - Obstacle detected: Visual 93.3%, Distance 11.3cm, Fused score: 72.2%
+2025-03-12 13:46:47 - Obstacle detected: Visual 92.3%, Distance 9.4cm, Fused score: 78.5%
+2025-03-12 13:46:50 - Obstacle detected: Visual 92.0%, Distance 10.7cm, Fused score: 74.1%
+2025-03-12 13:46:53 - Obstacle detected: Visual 83.8%, Distance 10.6cm, Fused score: 74.5%
+2025-03-12 13:46:56 - Obstacle detected: Visual 75.7%, Distance 7.9cm, Fused score: 83.8%
+2025-03-12 13:46:59 - Obstacle detected: Visual 75.3%, Distance 7.9cm, Fused score: 83.8%
+2025-03-12 13:47:02 - Obstacle detected: Visual 72.4%, Distance 8.9cm, Fused score: 80.4%
+
+--- New session started at 2025-03-12 13:48:13 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+2025-03-12 13:48:14 - Obstacle detected: Visual 99.2%, Distance 14.3cm, Fused score: 76.6%
+2025-03-12 13:48:32 - Obstacle detected: Visual 94.9%, Distance 14.3cm, Fused score: 75.9%
+2025-03-12 13:48:36 - Obstacle detected: Visual 97.4%, Distance 14.3cm, Fused score: 76.3%
+2025-03-12 13:48:48 - Obstacle detected: Visual 94.6%, Distance 14.3cm, Fused score: 75.9%
+2025-03-12 13:48:52 - Obstacle detected: Visual 84.9%, Distance 14.3cm, Fused score: 74.4%
+2025-03-12 13:48:58 - Obstacle detected: Visual 97.6%, Distance 14.3cm, Fused score: 76.3%
+
+--- New session started at 2025-03-12 13:49:03 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+2025-03-12 13:49:04 - Obstacle detected: Visual 99.2%, Distance 7.5cm, Fused score: 99.8%
+2025-03-12 13:49:07 - Obstacle detected: Visual 95.5%, Distance 9.1cm, Fused score: 80.4%
+2025-03-12 13:49:10 - Obstacle detected: Visual 96.2%, Distance 14.4cm, Fused score: 76.0%
+2025-03-12 13:49:36 - Obstacle detected: Visual 95.9%, Distance 15.7cm, Fused score: 71.7%
+2025-03-12 13:49:39 - Obstacle detected: Visual 72.4%, Distance 15.1cm, Fused score: 70.0%
+2025-03-12 13:49:42 - Obstacle detected: Visual 48.1%, Distance 14.0cm, Fused score: 70.1%
+2025-03-12 13:49:46 - Obstacle detected: Visual 63.6%, Distance 14.0cm, Fused score: 72.4%
+2025-03-12 13:49:56 - Obstacle detected: Visual 69.5%, Distance 10.9cm, Fused score: 73.4%
+2025-03-12 13:50:03 - Obstacle detected: Visual 96.9%, Distance 11.3cm, Fused score: 72.2%
+2025-03-12 13:50:06 - Obstacle detected: Visual 99.2%, Distance 15.7cm, Fused score: 71.9%
+2025-03-12 13:50:11 - Obstacle detected: Visual 41.4%, Distance 11.3cm, Fused score: 72.2%
+2025-03-12 13:50:20 - Obstacle detected: Visual 95.4%, Distance 16.1cm, Fused score: 70.2%
+2025-03-12 13:50:24 - Obstacle detected: Visual 94.6%, Distance 12.2cm, Fused score: 83.3%
+2025-03-12 13:50:30 - Obstacle detected: Visual 94.8%, Distance 16.1cm, Fused score: 70.1%
+2025-03-12 13:50:33 - Obstacle detected: Visual 99.1%, Distance 14.0cm, Fused score: 77.7%
+2025-03-12 13:50:37 - Obstacle detected: Visual 68.8%, Distance 14.1cm, Fused score: 73.1%
+2025-03-12 13:50:45 - Obstacle detected: Visual 96.6%, Distance 10.6cm, Fused score: 74.5%
+2025-03-12 13:50:52 - Obstacle detected: Visual 95.2%, Distance 9.6cm, Fused score: 78.0%
+2025-03-12 13:50:55 - Obstacle detected: Visual 82.3%, Distance 8.2cm, Fused score: 82.5%
+2025-03-12 13:50:58 - Obstacle detected: Visual 98.3%, Distance 5.9cm, Fused score: 85.0%
+2025-03-12 13:51:01 - Obstacle detected: Visual 96.3%, Distance 9.9cm, Fused score: 78.3%
+2025-03-12 13:51:04 - Obstacle detected: Visual 86.4%, Distance 5.3cm, Fused score: 85.0%
+2025-03-12 13:51:07 - Obstacle detected: Visual 85.4%, Distance 7.5cm, Fused score: 84.9%
+2025-03-12 13:51:10 - Obstacle detected: Visual 98.2%, Distance 4.9cm, Fused score: 99.7%
+2025-03-12 13:51:13 - Obstacle detected: Visual 86.9%, Distance 5.3cm, Fused score: 85.0%
+2025-03-12 13:51:16 - Obstacle detected: Visual 96.5%, Distance 11.8cm, Fused score: 85.0%
+2025-03-12 13:51:26 - Obstacle detected: Visual 98.8%, Distance 9.3cm, Fused score: 80.5%
+2025-03-12 13:51:29 - Obstacle detected: Visual 93.2%, Distance 9.6cm, Fused score: 78.0%
+2025-03-12 13:51:32 - Obstacle detected: Visual 89.2%, Distance 9.6cm, Fused score: 78.0%
+2025-03-12 13:51:35 - Obstacle detected: Visual 90.7%, Distance 5.9cm, Fused score: 85.0%
+2025-03-12 13:51:38 - Obstacle detected: Visual 85.1%, Distance 11.4cm, Fused score: 71.8%
+2025-03-12 13:51:41 - Obstacle detected: Visual 46.9%, Distance 5.9cm, Fused score: 85.0%
+2025-03-12 13:51:44 - Obstacle detected: Visual 68.3%, Distance 9.9cm, Fused score: 76.8%
+2025-03-12 13:51:47 - Obstacle detected: Visual 64.9%, Distance 7.2cm, Fused score: 94.7%
+2025-03-12 13:51:50 - Obstacle detected: Visual 92.8%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:51:53 - Obstacle detected: Visual 94.2%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:51:56 - Obstacle detected: Visual 73.2%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:51:59 - Obstacle detected: Visual 70.2%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:02 - Obstacle detected: Visual 96.0%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:05 - Obstacle detected: Visual 96.0%, Distance 10.8cm, Fused score: 88.2%
+2025-03-12 13:52:08 - Obstacle detected: Visual 97.5%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:11 - Obstacle detected: Visual 97.3%, Distance 10.8cm, Fused score: 74.2%
+2025-03-12 13:52:14 - Obstacle detected: Visual 98.3%, Distance 10.8cm, Fused score: 88.6%
+2025-03-12 13:52:17 - Obstacle detected: Visual 93.6%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:20 - Obstacle detected: Visual 64.4%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:23 - Obstacle detected: Visual 34.3%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:26 - Obstacle detected: Visual 97.9%, Distance 10.8cm, Fused score: 88.5%
+2025-03-12 13:52:29 - Obstacle detected: Visual 62.6%, Distance 10.8cm, Fused score: 83.2%
+2025-03-12 13:52:32 - Obstacle detected: Visual 70.6%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:35 - Obstacle detected: Visual 60.6%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:38 - Obstacle detected: Visual 93.7%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:41 - Obstacle detected: Visual 94.8%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:44 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:52:47 - Obstacle detected: Visual 97.6%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:50 - Obstacle detected: Visual 93.1%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:53 - Obstacle detected: Visual 98.2%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:52:56 - Obstacle detected: Visual 60.4%, Distance 10.8cm, Fused score: 82.9%
+2025-03-12 13:52:59 - Obstacle detected: Visual 85.5%, Distance 10.8cm, Fused score: 86.6%
+2025-03-12 13:53:02 - Obstacle detected: Visual 84.0%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:53:05 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:08 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:11 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:14 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:17 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:20 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:23 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:26 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:29 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:32 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:35 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:38 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:41 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:44 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:47 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:50 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:53 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:56 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:53:59 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:54:02 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:54:05 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:54:08 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:54:11 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:54:15 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:54:18 - Obstacle detected: Visual 98.0%, Distance 10.8cm, Fused score: 88.5%
+2025-03-12 13:54:21 - Obstacle detected: Visual 63.8%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:54:24 - Obstacle detected: Visual 93.3%, Distance 10.8cm, Fused score: 74.2%
+2025-03-12 13:54:27 - Obstacle detected: Visual 92.9%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:54:30 - Obstacle detected: Visual 85.6%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:54:33 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:54:36 - Obstacle detected: Visual 90.9%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:54:39 - Obstacle detected: Visual 94.4%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:54:42 - Obstacle detected: Visual 89.2%, Distance 10.8cm, Fused score: 87.2%
+2025-03-12 13:54:45 - Obstacle detected: Visual 94.5%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:54:48 - Obstacle detected: Visual 59.9%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:54:51 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:54:54 - Obstacle detected: Visual 74.1%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:54:57 - Obstacle detected: Visual 96.7%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:00 - Obstacle detected: Visual 95.0%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:03 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:55:06 - Obstacle detected: Visual 98.1%, Distance 10.8cm, Fused score: 88.5%
+2025-03-12 13:55:09 - Obstacle detected: Visual 72.8%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:12 - Obstacle detected: Visual 90.3%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:15 - Obstacle detected: Visual 68.0%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:18 - Obstacle detected: Visual 96.6%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:21 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:55:24 - Obstacle detected: Visual 99.1%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:55:27 - Obstacle detected: Visual 52.8%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:30 - Obstacle detected: Visual 82.2%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:33 - Obstacle detected: Visual 82.5%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:36 - Obstacle detected: Visual 82.8%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:39 - Obstacle detected: Visual 81.9%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:42 - Obstacle detected: Visual 81.2%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:45 - Obstacle detected: Visual 76.2%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:48 - Obstacle detected: Visual 76.4%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:55:51 - Obstacle detected: Visual 76.1%, Distance 10.8cm, Fused score: 74.6%
+2025-03-12 13:55:54 - Obstacle detected: Visual 76.5%, Distance 10.8cm, Fused score: 74.6%
+2025-03-12 13:55:57 - Obstacle detected: Visual 76.0%, Distance 10.8cm, Fused score: 74.9%
+2025-03-12 13:56:00 - Obstacle detected: Visual 75.9%, Distance 10.8cm, Fused score: 75.7%
+2025-03-12 13:56:03 - Obstacle detected: Visual 71.1%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:56:06 - Obstacle detected: Visual 67.5%, Distance 10.8cm, Fused score: 74.9%
+2025-03-12 13:56:09 - Obstacle detected: Visual 67.6%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:56:12 - Obstacle detected: Visual 67.3%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:56:15 - Obstacle detected: Visual 67.3%, Distance 10.8cm, Fused score: 74.2%
+2025-03-12 13:56:18 - Obstacle detected: Visual 82.8%, Distance 10.8cm, Fused score: 86.2%
+2025-03-12 13:56:21 - Obstacle detected: Visual 83.1%, Distance 10.8cm, Fused score: 86.3%
+2025-03-12 13:56:24 - Obstacle detected: Visual 83.1%, Distance 10.8cm, Fused score: 86.3%
+2025-03-12 13:56:27 - Obstacle detected: Visual 83.2%, Distance 10.8cm, Fused score: 86.3%
+2025-03-12 13:56:30 - Obstacle detected: Visual 92.5%, Distance 10.8cm, Fused score: 87.7%
+2025-03-12 13:56:33 - Obstacle detected: Visual 93.5%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:56:36 - Obstacle detected: Visual 84.5%, Distance 10.8cm, Fused score: 86.5%
+2025-03-12 13:56:39 - Obstacle detected: Visual 84.4%, Distance 10.8cm, Fused score: 86.5%
+2025-03-12 13:56:42 - Obstacle detected: Visual 82.4%, Distance 10.8cm, Fused score: 86.2%
+2025-03-12 13:56:45 - Obstacle detected: Visual 82.6%, Distance 10.8cm, Fused score: 86.2%
+2025-03-12 13:56:48 - Obstacle detected: Visual 82.5%, Distance 10.8cm, Fused score: 86.2%
+2025-03-12 13:56:51 - Obstacle detected: Visual 37.7%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:56:54 - Obstacle detected: Visual 32.7%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:56:58 - Obstacle detected: Visual 46.6%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:57:01 - Obstacle detected: Visual 97.0%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:57:04 - Obstacle detected: Visual 91.9%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:57:07 - Obstacle detected: Visual 99.0%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:57:10 - Obstacle detected: Visual 99.2%, Distance 10.8cm, Fused score: 88.7%
+2025-03-12 13:57:13 - Obstacle detected: Visual 81.5%, Distance 10.8cm, Fused score: 73.8%
+2025-03-12 13:57:16 - Obstacle detected: Visual 77.1%, Distance 10.8cm, Fused score: 73.8%
+
+--- New session started at 2025-03-12 13:57:26 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+2025-03-12 13:57:27 - Obstacle detected: Visual 99.2%, Distance 13.3cm, Fused score: 80.1%
+2025-03-12 13:57:30 - Obstacle detected: Visual 76.2%, Distance 5.8cm, Fused score: 85.0%
+2025-03-12 13:57:33 - Obstacle detected: Visual 94.6%, Distance 11.6cm, Fused score: 71.0%
+2025-03-12 13:58:06 - Obstacle detected: Visual 99.0%, Distance 16.0cm, Fused score: 70.8%
+2025-03-12 13:58:12 - Obstacle detected: Visual 99.2%, Distance 14.6cm, Fused score: 75.7%
+2025-03-12 13:58:16 - Obstacle detected: Visual 98.8%, Distance 14.7cm, Fused score: 75.4%
+2025-03-12 13:58:19 - Obstacle detected: Visual 96.9%, Distance 10.2cm, Fused score: 75.7%
+2025-03-12 13:59:09 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 70.8%
+
+--- New session started at 2025-03-12 14:08:36 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+Haptic feedback: Enabled
+2025-03-12 14:08:41 - Obstacle detected: Visual 99.2%, Distance 14.7cm, Fused score: 75.3%
+2025-03-12 14:08:44 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 99.9%
+2025-03-12 14:08:47 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 99.9%
+2025-03-12 14:08:50 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 99.9%
+2025-03-12 14:08:53 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 99.9%
+2025-03-12 14:08:56 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 99.9%
+2025-03-12 14:09:00 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 99.9%
+2025-03-12 14:09:03 - Obstacle detected: Visual 99.2%, Distance 6.6cm, Fused score: 99.9%
+
+--- New session started at 2025-03-12 14:09:07 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+Haptic feedback: Enabled
+2025-03-12 14:09:14 - Obstacle detected: Visual 99.2%, Distance 11.9cm, Fused score: 84.9%
+2025-03-12 14:09:18 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 70.8%
+2025-03-12 14:09:21 - Obstacle detected: Visual 99.2%, Distance 9.6cm, Fused score: 92.9%
+2025-03-12 14:09:24 - Obstacle detected: Visual 99.2%, Distance 13.3cm, Fused score: 80.1%
+2025-03-12 14:09:27 - Obstacle detected: Visual 99.2%, Distance 12.6cm, Fused score: 82.4%
+2025-03-12 14:09:31 - Obstacle detected: Visual 99.2%, Distance 10.9cm, Fused score: 88.2%
+2025-03-12 14:09:34 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 70.8%
+2025-03-12 14:09:37 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 70.8%
+2025-03-12 14:09:41 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 70.8%
+2025-03-12 14:09:44 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 70.8%
+2025-03-12 14:10:35 - Obstacle detected: Visual 99.2%, Distance 16.1cm, Fused score: 70.5%
+2025-03-12 14:10:38 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 70.8%
+
+--- New session started at 2025-03-12 14:11:13 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+Haptic feedback: Enabled
+2025-03-12 14:11:14 - Obstacle detected: Visual 99.2%, Distance 13.7cm, Fused score: 78.9%
+2025-03-12 14:11:18 - Obstacle detected: Visual 96.2%, Distance 15.4cm, Fused score: 72.7%
+2025-03-12 14:11:22 - Obstacle detected: Visual 96.2%, Distance 14.3cm, Fused score: 76.2%
+2025-03-12 14:11:25 - Obstacle detected: Visual 96.2%, Distance 16.0cm, Fused score: 70.4%
+2025-03-12 14:11:28 - Obstacle detected: Visual 84.0%, Distance 15.0cm, Fused score: 72.0%
+2025-03-12 14:11:31 - Obstacle detected: Visual 84.0%, Distance 9.6cm, Fused score: 90.6%
+2025-03-12 14:11:34 - Obstacle detected: Visual 96.2%, Distance 15.0cm, Fused score: 73.8%
+2025-03-12 14:11:37 - Obstacle detected: Visual 96.2%, Distance 15.4cm, Fused score: 72.7%
+2025-03-12 14:11:40 - Obstacle detected: Visual 96.2%, Distance 13.0cm, Fused score: 80.8%
+2025-03-12 14:11:43 - Obstacle detected: Visual 84.2%, Distance 14.3cm, Fused score: 74.3%
+2025-03-12 14:11:46 - Obstacle detected: Visual 96.2%, Distance 12.6cm, Fused score: 82.0%
+2025-03-12 14:11:49 - Obstacle detected: Visual 84.1%, Distance 8.9cm, Fused score: 93.0%
+2025-03-12 14:11:52 - Obstacle detected: Visual 96.6%, Distance 16.1cm, Fused score: 70.4%
+2025-03-12 14:11:55 - Obstacle detected: Visual 96.2%, Distance 13.3cm, Fused score: 79.6%
+2025-03-12 14:11:58 - Obstacle detected: Visual 96.2%, Distance 11.3cm, Fused score: 86.6%
+2025-03-12 14:12:01 - Obstacle detected: Visual 96.3%, Distance 8.0cm, Fused score: 97.6%
+2025-03-12 14:12:04 - Obstacle detected: Visual 96.2%, Distance 9.6cm, Fused score: 92.4%
+2025-03-12 14:12:07 - Obstacle detected: Visual 96.2%, Distance 11.6cm, Fused score: 85.4%
+2025-03-12 14:12:10 - Obstacle detected: Visual 96.3%, Distance 10.2cm, Fused score: 90.2%
+2025-03-12 14:12:13 - Obstacle detected: Visual 96.4%, Distance 3.2cm, Fused score: 99.5%
+2025-03-12 14:12:16 - Obstacle detected: Visual 96.4%, Distance 12.5cm, Fused score: 82.4%
+2025-03-12 14:12:19 - Obstacle detected: Visual 96.5%, Distance 8.5cm, Fused score: 96.2%
+2025-03-12 14:12:22 - Obstacle detected: Visual 96.4%, Distance 15.2cm, Fused score: 73.4%
+2025-03-12 14:12:25 - Obstacle detected: Visual 96.5%, Distance 8.2cm, Fused score: 97.2%
+2025-03-12 14:12:28 - Obstacle detected: Visual 96.5%, Distance 8.2cm, Fused score: 97.2%
+2025-03-12 14:12:31 - Obstacle detected: Visual 96.8%, Distance 8.2cm, Fused score: 97.2%
+2025-03-12 14:12:34 - Obstacle detected: Visual 96.4%, Distance 9.5cm, Fused score: 92.5%
+2025-03-12 14:12:37 - Obstacle detected: Visual 96.4%, Distance 9.6cm, Fused score: 92.5%
+2025-03-12 14:12:40 - Obstacle detected: Visual 96.6%, Distance 9.6cm, Fused score: 92.4%
+2025-03-12 14:12:43 - Obstacle detected: Visual 96.5%, Distance 9.2cm, Fused score: 93.7%
+2025-03-12 14:12:46 - Obstacle detected: Visual 96.7%, Distance 9.9cm, Fused score: 91.4%
+2025-03-12 14:12:49 - Obstacle detected: Visual 96.4%, Distance 8.2cm, Fused score: 97.1%
+2025-03-12 14:12:52 - Obstacle detected: Visual 96.5%, Distance 8.2cm, Fused score: 97.2%
+2025-03-12 14:12:55 - Obstacle detected: Visual 97.8%, Distance 5.6cm, Fused score: 99.7%
+2025-03-12 14:12:58 - Obstacle detected: Visual 96.4%, Distance 6.2cm, Fused score: 99.5%
+2025-03-12 14:13:01 - Obstacle detected: Visual 96.3%, Distance 6.5cm, Fused score: 99.4%
+2025-03-12 14:13:04 - Obstacle detected: Visual 96.4%, Distance 8.5cm, Fused score: 96.1%
+2025-03-12 14:13:07 - Obstacle detected: Visual 96.3%, Distance 8.9cm, Fused score: 94.8%
+2025-03-12 14:13:10 - Obstacle detected: Visual 96.4%, Distance 8.6cm, Fused score: 95.8%
+2025-03-12 14:13:13 - Obstacle detected: Visual 96.2%, Distance 8.9cm, Fused score: 94.8%
+2025-03-12 14:13:17 - Obstacle detected: Visual 96.9%, Distance 9.2cm, Fused score: 93.8%
+2025-03-12 14:13:20 - Obstacle detected: Visual 96.8%, Distance 16.0cm, Fused score: 70.5%
+2025-03-12 14:13:23 - Obstacle detected: Visual 96.4%, Distance 8.2cm, Fused score: 97.2%
+2025-03-12 14:13:26 - Obstacle detected: Visual 96.9%, Distance 15.9cm, Fused score: 70.8%
+2025-03-12 14:13:29 - Obstacle detected: Visual 96.5%, Distance 13.6cm, Fused score: 78.7%
+2025-03-12 14:13:32 - Obstacle detected: Visual 96.5%, Distance 11.9cm, Fused score: 84.4%
+2025-03-12 14:13:35 - Obstacle detected: Visual 96.3%, Distance 13.6cm, Fused score: 78.6%
+2025-03-12 14:13:40 - Obstacle detected: Visual 97.5%, Distance 15.3cm, Fused score: 72.9%
+2025-03-12 14:13:43 - Obstacle detected: Visual 97.9%, Distance 12.6cm, Fused score: 82.5%
+2025-03-12 14:13:46 - Obstacle detected: Visual 92.0%, Distance 7.9cm, Fused score: 97.5%
+2025-03-12 14:13:49 - Obstacle detected: Visual 94.3%, Distance 10.2cm, Fused score: 75.7%
+2025-03-12 14:13:52 - Obstacle detected: Visual 95.6%, Distance 8.9cm, Fused score: 80.4%
+2025-03-12 14:13:55 - Obstacle detected: Visual 95.5%, Distance 7.6cm, Fused score: 84.6%
+2025-03-12 14:13:58 - Obstacle detected: Visual 95.8%, Distance 5.7cm, Fused score: 85.0%
+2025-03-12 14:14:01 - Obstacle detected: Visual 95.5%, Distance 10.9cm, Fused score: 73.4%
+2025-03-12 14:14:05 - Obstacle detected: Visual 95.2%, Distance 8.1cm, Fused score: 83.1%
+2025-03-12 14:14:08 - Obstacle detected: Visual 62.9%, Distance 10.2cm, Fused score: 75.7%
+2025-03-12 14:14:11 - Obstacle detected: Visual 57.0%, Distance 7.2cm, Fused score: 85.0%
+2025-03-12 14:14:14 - Obstacle detected: Visual 91.3%, Distance 11.3cm, Fused score: 72.2%
+2025-03-12 14:14:17 - Obstacle detected: Visual 84.5%, Distance 4.0cm, Fused score: 97.7%
+2025-03-12 14:14:20 - Obstacle detected: Visual 69.5%, Distance 6.0cm, Fused score: 85.0%
+2025-03-12 14:14:23 - Obstacle detected: Visual 54.1%, Distance 6.0cm, Fused score: 86.1%
+2025-03-12 14:14:26 - Obstacle detected: Visual 74.6%, Distance 6.0cm, Fused score: 85.0%
+2025-03-12 14:14:29 - Obstacle detected: Visual 86.3%, Distance 6.0cm, Fused score: 85.0%
+2025-03-12 14:14:32 - Obstacle detected: Visual 82.9%, Distance 6.0cm, Fused score: 85.0%
+2025-03-12 14:14:35 - Obstacle detected: Visual 77.7%, Distance 6.0cm, Fused score: 85.0%
+2025-03-12 14:14:38 - Obstacle detected: Visual 72.6%, Distance 6.0cm, Fused score: 85.0%
+2025-03-12 14:14:41 - Obstacle detected: Visual 63.2%, Distance 6.0cm, Fused score: 86.1%
+2025-03-12 14:14:44 - Obstacle detected: Visual 47.7%, Distance 6.0cm, Fused score: 86.9%
+2025-03-12 14:14:47 - Obstacle detected: Visual 89.8%, Distance 6.0cm, Fused score: 98.5%
+2025-03-12 14:14:50 - Obstacle detected: Visual 76.0%, Distance 6.0cm, Fused score: 85.0%
+
+--- New session started at 2025-03-12 14:14:57 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+Haptic feedback: Enabled
+2025-03-12 14:14:58 - Obstacle detected: Visual 99.2%, Distance 16.0cm, Fused score: 70.9%
+2025-03-12 14:15:01 - Obstacle detected: Visual 92.2%, Distance 7.6cm, Fused score: 98.4%
+2025-03-12 14:15:04 - Obstacle detected: Visual 80.3%, Distance 8.9cm, Fused score: 80.4%
+2025-03-12 14:15:07 - Obstacle detected: Visual 78.8%, Distance 11.3cm, Fused score: 72.7%
+2025-03-12 14:15:10 - Obstacle detected: Visual 78.7%, Distance 8.1cm, Fused score: 83.6%
+2025-03-12 14:15:14 - Obstacle detected: Visual 75.6%, Distance 10.2cm, Fused score: 87.0%
+2025-03-12 14:15:19 - Obstacle detected: Visual 98.4%, Distance 15.0cm, Fused score: 74.2%
+2025-03-12 14:15:22 - Obstacle detected: Visual 99.2%, Distance 13.1cm, Fused score: 80.7%
+2025-03-12 14:15:25 - Obstacle detected: Visual 97.5%, Distance 9.9cm, Fused score: 91.5%
+2025-03-12 14:15:28 - Obstacle detected: Visual 94.5%, Distance 5.2cm, Fused score: 99.2%
+2025-03-12 14:15:31 - Obstacle detected: Visual 99.2%, Distance 13.0cm, Fused score: 81.2%
+2025-03-12 14:15:34 - Obstacle detected: Visual 99.2%, Distance 14.0cm, Fused score: 77.8%
+2025-03-12 14:15:40 - Obstacle detected: Visual 98.0%, Distance 13.3cm, Fused score: 79.9%
+2025-03-12 14:15:43 - Obstacle detected: Visual 75.0%, Distance 6.5cm, Fused score: 96.2%
+2025-03-12 14:15:46 - Obstacle detected: Visual 98.9%, Distance 16.0cm, Fused score: 70.8%
+2025-03-12 14:15:49 - Obstacle detected: Visual 99.0%, Distance 15.4cm, Fused score: 73.1%
+--- Session ended at 2025-03-12 14:15:51 ---
+
+--- New session started at 2025-03-12 14:16:19 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+Haptic feedback: Enabled
+2025-03-12 14:16:29 - Obstacle detected: Visual 82.2%, Distance 11.8cm, Fused score: 70.2%
+2025-03-12 14:16:35 - Obstacle detected: Visual 65.1%, Distance 10.9cm, Fused score: 73.4%
+2025-03-12 14:16:38 - Obstacle detected: Visual 67.7%, Distance 11.6cm, Fused score: 71.0%
+--- Session ended at 2025-03-12 14:16:48 ---
+
+--- New session started at 2025-03-12 14:18:14 by SkywardSyntax ---
+Sensor weights: Camera 0.15, Ultrasonic 0.85
+Filter settings: Length=5
+Haptic feedback: Enabled
+2025-03-12 14:18:19 - Obstacle detected: Visual 74.8%, Distance 11.6cm, Fused score: 71.1%
+2025-03-12 14:18:22 - Obstacle detected: Visual 66.0%, Distance 2.7cm, Fused score: 85.0%
+2025-03-12 14:18:25 - Obstacle detected: Visual 65.4%, Distance 6.5cm, Fused score: 85.0%
+2025-03-12 14:18:31 - Obstacle detected: Visual 62.3%, Distance 11.4cm, Fused score: 71.8%
+2025-03-12 14:18:34 - Obstacle detected: Visual 91.2%, Distance 12.3cm, Fused score: 82.4%
