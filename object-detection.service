@@ -1,0 +1,13 @@
+[Unit]
+Description=Object Detection Service
+After=network.target
+
+[Service]
+User=pi
+WorkingDirectory=/home/pi/RardedWalker
+ExecStart=/home/pi/RardedWalker/start_object_detection.sh
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
