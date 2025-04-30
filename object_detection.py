@@ -37,7 +37,8 @@ last_fused_assessment = 0
 vibration_active = False
 vibration_intensity = 0  # 0-100%
 PWM_FREQUENCY = 100  # Hz for PWM control
-haptic_pwm = None  # Will hold the PWM object
+haptic_left_pwm = None  # Will hold the left PWM object
+haptic_right_pwm = None  # Will hold the right PWM object
 
 def measure_distance(trigger_pin, echo_pin):
     """
@@ -88,10 +89,10 @@ def apply_median_filter(readings):
 
 def set_haptic_intensity(intensity):
     """
-    Set the haptic motor vibration intensity using PWM
+    Set both haptic motors (left and right) vibration intensity using PWM
     intensity: 0-100 where 0 is off and 100 is maximum vibration
     """
-    global haptic_pwm, vibration_active, vibration_intensity
+    global haptic_left_pwm, haptic_right_pwm, vibration_active, vibration_intensity
     
     # Limit intensity to valid range
     intensity = max(0, min(100, intensity))
@@ -103,9 +104,11 @@ def set_haptic_intensity(intensity):
     elif intensity == 0 and vibration_active:
         vibration_active = False
 
-    # Set PWM duty cycle based on intensity
-    if haptic_pwm:
-        haptic_pwm.ChangeDutyCycle(intensity)
+    # Set PWM duty cycle based on intensity for both motors
+    if haptic_left_pwm:
+        haptic_left_pwm.ChangeDutyCycle(intensity)
+    if haptic_right_pwm:
+        haptic_right_pwm.ChangeDutyCycle(intensity)
 
 def get_haptic_pattern_intensity(assessment, distance):
     """
@@ -129,13 +132,16 @@ def get_haptic_pattern_intensity(assessment, distance):
     
     return intensity
 
-def haptic_feedback_thread(motor_pin):
-    """Thread for controlling haptic feedback patterns"""
-    global vibration_active, vibration_intensity, haptic_pwm
+def haptic_feedback_thread(left_motor_pin, right_motor_pin):
+    """Thread for controlling haptic feedback patterns for both left and right motors"""
+    global vibration_active, vibration_intensity, haptic_left_pwm, haptic_right_pwm
     
-    # Setup PWM for vibration motor
-    haptic_pwm = GPIO.PWM(motor_pin, PWM_FREQUENCY)
-    haptic_pwm.start(0)  # Start with 0% duty cycle (off)
+    # Setup PWM for both vibration motors
+    haptic_left_pwm = GPIO.PWM(left_motor_pin, PWM_FREQUENCY)
+    haptic_left_pwm.start(0)  # Start with 0% duty cycle (off)
+    
+    haptic_right_pwm = GPIO.PWM(right_motor_pin, PWM_FREQUENCY)
+    haptic_right_pwm.start(0)  # Start with 0% duty cycle (off)
     
     try:
         while True:
@@ -147,7 +153,7 @@ def haptic_feedback_thread(motor_pin):
             # Calculate appropriate intensity based on assessment and distance
             intensity = get_haptic_pattern_intensity(current_assessment, current_distance)
             
-            # Update motor intensity
+            # Update motor intensity (both motors get the same intensity)
             set_haptic_intensity(intensity)
             
             # Brief sleep to avoid excessive CPU usage
@@ -155,10 +161,12 @@ def haptic_feedback_thread(motor_pin):
     except Exception as e:
         print(f"Haptic feedback thread error: {e}")
     finally:
-        if haptic_pwm:
-            haptic_pwm.stop()
+        if haptic_left_pwm:
+            haptic_left_pwm.stop()
+        if haptic_right_pwm:
+            haptic_right_pwm.stop()
 
-def ultrasonic_thread_function(trigger_pin, echo_pin, motor_pin):
+def ultrasonic_thread_function(trigger_pin, echo_pin):
     """Thread function to continuously read the ultrasonic sensor with optimized performance"""
     global distance_cm, distance_readings, ultrasonic_weight, motor_update_needed, last_fused_assessment
     
@@ -393,13 +401,18 @@ def main():
         
         SENSOR_A_TRIGGER = 13
         SENSOR_A_ECHO = 11
-        VIBRATION_MOTOR_PIN = 12  # Renamed for clarity
+        LEFT_VIBRATION_MOTOR_PIN = 12  # Left haptic motor
+        RIGHT_VIBRATION_MOTOR_PIN = 16  # Right haptic motor - using a new pin
         
         GPIO.setup(SENSOR_A_TRIGGER, GPIO.OUT)
         GPIO.output(SENSOR_A_TRIGGER, GPIO.LOW)
         GPIO.setup(SENSOR_A_ECHO, GPIO.IN)
-        GPIO.setup(VIBRATION_MOTOR_PIN, GPIO.OUT)
-        GPIO.output(VIBRATION_MOTOR_PIN, GPIO.LOW)
+        
+        # Setup both haptic motor pins
+        GPIO.setup(LEFT_VIBRATION_MOTOR_PIN, GPIO.OUT)
+        GPIO.output(LEFT_VIBRATION_MOTOR_PIN, GPIO.LOW)
+        GPIO.setup(RIGHT_VIBRATION_MOTOR_PIN, GPIO.OUT)
+        GPIO.output(RIGHT_VIBRATION_MOTOR_PIN, GPIO.LOW)
         
         print("Waiting for sensors to settle...")
         time.sleep(1)  # Reduced from 2 seconds
@@ -407,19 +420,19 @@ def main():
         # Start the ultrasonic sensing thread
         ultrasonic_thread = threading.Thread(
             target=ultrasonic_thread_function,
-            args=(SENSOR_A_TRIGGER, SENSOR_A_ECHO, VIBRATION_MOTOR_PIN),
+            args=(SENSOR_A_TRIGGER, SENSOR_A_ECHO),
             daemon=True
         )
         ultrasonic_thread.start()
         
-        # Start the haptic feedback thread
+        # Start the haptic feedback thread with both motor pins
         haptic_thread = threading.Thread(
             target=haptic_feedback_thread,
-            args=(VIBRATION_MOTOR_PIN,),
+            args=(LEFT_VIBRATION_MOTOR_PIN, RIGHT_VIBRATION_MOTOR_PIN),
             daemon=True
         )
         haptic_thread.start()
-        print("Haptic feedback system initialized")
+        print("Dual haptic feedback system initialized")
         
         capture = None
         if camera_weight > 0:
@@ -438,7 +451,7 @@ def main():
             f.write(f"\n--- New session started at {timestamp} by SkywardSyntax ---\n")
             f.write(f"Sensor weights: Camera {camera_weight:.2f}, Ultrasonic {ultrasonic_weight:.2f}\n")
             f.write(f"Filter settings: Length={FILTER_LENGTH}\n")
-            f.write(f"Haptic feedback: Enabled\n")
+            f.write(f"Haptic feedback: Enabled (Dual Motors - Left and Right)\n")
         
         print("Press 'q' to quit the loop.")
         while True:
@@ -473,7 +486,7 @@ def main():
                 status_text = "WARNING: OBSTACLE DETECTED"
                 status_color = (0, 0, 255)
                 border_color = [0, 0, 255]
-                haptic_status = f"Haptic: ON ({vibration_intensity:.0f}%)"
+                haptic_status = f"Haptic (L/R): ON ({vibration_intensity:.0f}%)"
                 
                 current_time = time.time()
                 if current_time - last_log_time > 3:
@@ -490,7 +503,7 @@ def main():
                 status_text = "Path Clear"
                 status_color = (0, 128, 0)
                 border_color = [0, 128, 0]
-                haptic_status = "Haptic: OFF"
+                haptic_status = "Haptic (L/R): OFF"
                 
             cv.putText(status_display, status_text, (10, 40), cv.FONT_HERSHEY_SIMPLEX, 1.2, status_color, 2)
             y_pos = 80
@@ -527,8 +540,10 @@ def main():
     except KeyboardInterrupt:
         print("\nProgram stopped by user.")
     finally:
-        if 'haptic_pwm' in globals() and haptic_pwm is not None:
-            haptic_pwm.stop()
+        if 'haptic_left_pwm' in globals() and haptic_left_pwm is not None:
+            haptic_left_pwm.stop()
+        if 'haptic_right_pwm' in globals() and haptic_right_pwm is not None:
+            haptic_right_pwm.stop()
         GPIO.cleanup()
 
 if __name__ == "__main__":
